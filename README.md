@@ -7,29 +7,23 @@
 ## 🏆 Sports Division
 
 ### Enzo Rubio — AI Sporting Director
-**Industry:** Professional football (club side)
+**Industry:** Professional football
 
-- Scout players for clubs
-- Analyze club rosters and transfer targets
-- Access to 4,331 clubs across 47 leagues
+Scout players for clubs, analyze rosters, research transfer targets. Access to 4,331 clubs across 47 leagues.
 
 ---
 
 ### Tania Freeman — Athlete Advisor Agent
-**Industry:** Professional football (player side)
+**Industry:** Professional football
 
-- Career move guidance for players
-- Club and league research
-- Contract analysis
+Career guidance, club research, contract analysis for players.
 
 ---
 
 ### Bernie Brooks — Athlete Advisor Agent
-**Industry:** Professional football (player side)
+**Industry:** Professional football
 
-- Transfer negotiation for players
-- Club budget research
-- Market analysis and offer comparison
+Transfer negotiation, market analysis for players.
 
 ---
 
@@ -38,82 +32,51 @@
 ### Charlie Nens — Talent Agent
 **Industry:** AI2me Entertainment
 
-- Brand positioning and strategy
-- Endorsement deal negotiation
-- Opportunity identification
-- Reputation management
-- 100+ brand contacts, 10+ years experience
+Brand positioning, deal negotiation, opportunity identification, reputation management.
 
 ---
 
 ### Trina Pia — Talent Agent
-**Industry:** AI2me Entertainment (Pay equity specialist)
+**Industry:** AI2me Entertainment
 
-- Fair market valuation
-- Ownership negotiation (equity stakes)
-- Crisis management
-- Long-term wealth building
-- 18+ years experience, 150+ industry contacts
+Fair market valuation, ownership negotiation, crisis management, wealth building.
 
 ---
 
 ### Lisa Penn — Brand Manager
-**Industry:** AI2me Brand Managers (Data specialist)
+**Industry:** AI2me Brand Managers
 
-- Data-driven talent analysis
-- Demographic matching and audience alignment
-- Partnership architecture
-- ROI measurement and optimization
-- Managed €1B+ in brand partnerships
+Talent analysis, demographic matching, partnership architecture, ROI measurement.
 
 ---
 
 ### Peter Wilson — Brand Manager
-**Industry:** AI2me Brand Managers (Corporate sourcing)
+**Industry:** AI2me Brand Managers
 
-- Talent sourcing for brands
-- ROI analysis and deal structuring
-- Brand strategy
-- 12+ years sports marketing, €500M+ deals negotiated
+Talent sourcing, ROI analysis, deal structuring, brand strategy.
 
 ---
 
 ## 🏗️ Architecture
 
-Each agent has:
-- `IDENTITY.md` — Role and persona
-- `SOUL.md` — Personality and voice
-- `TOOLS.md` — Technical capabilities
-- `MEMORY.md` — Context and history
+Each agent has: `IDENTITY.md`, `SOUL.md`, `TOOLS.md`, `MEMORY.md`
 
-**Deployment:** OpenClaw platform with isolated workspaces
+**Deployment:** OpenClaw platform
 
 ---
 
 ## 📊 Resources
 
-**Sports agents:**
-- Football Data: https://github.com/Eternitai01/ai2me-football-data
-- 4,331 clubs, 47 leagues, weekly updates
-
-**Entertainment/Brand agents:**
-- Industry networks, ROI analysis tools, market data
-
----
-
-## 💰 Cost
-
-**$0/month** — Uses existing AI2me infrastructure
+**Sports:** https://github.com/Eternitai01/ai2me-football-data (4,331 clubs, 47 leagues)
 
 ---
 
 ## 📖 Links
 
-- **Football Data:** https://github.com/Eternitai01/ai2me-football-data
 - **AI2me:** https://ai2me.com
 - **Company:** EternitAI Group
 
 ---
 
-**Status:** 7 agents active (3 sports, 4 entertainment/brand)  
+**Status:** 7 agents active  
 **Created:** March 15-16, 2026
