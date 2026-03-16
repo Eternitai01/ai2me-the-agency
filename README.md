@@ -1,6 +1,6 @@
 # AI2me The Agency
 
-**Seven specialized AI agents across multiple industries**
+**Seven specialized AI agents across Sports and Entertainment**
 
 ---
 
@@ -42,55 +42,57 @@
 
 ---
 
-## 📰 Media & Publishing
+## 🎬 Entertainment & Brand Management
 
-### Charlie Nens — Content Strategist
-**Role:** Media and publishing specialist  
-**Industry:** Digital media
-
-**What he does:**
-- Content strategy
-- Editorial planning
-- Audience research
-- Distribution optimization
-
----
-
-### Lisa Penn — Literary Agent
-**Role:** Book publishing specialist  
-**Industry:** Publishing
-
-**What she does:**
-- Manuscript evaluation
-- Publisher connections
-- Contract negotiation
-- Author representation
-
----
-
-## 🎭 Entertainment
-
-### Peter Wilson — Talent Agent
-**Role:** Entertainment industry specialist  
-**Industry:** Film, TV, Music
+### Charlie Nens — Male Celebrity Agent
+**Role:** Strategic entertainment agent  
+**Industry:** AI2me Entertainment
 
 **What he does:**
-- Talent representation
-- Career management
-- Deal negotiation
-- Industry connections
+- Brand positioning for male celebrities
+- Endorsement deal negotiation
+- Opportunity identification
+- Reputation management
+- 100+ brand contacts
 
 ---
 
-### Trina Pia — Social Media Manager
-**Role:** Digital presence specialist  
-**Industry:** Social media & influencer marketing
+### Trina Pia — Female Celebrity Agent
+**Role:** Power agent & female empowerment advocate  
+**Industry:** AI2me Entertainment
 
 **What she does:**
-- Social media strategy
-- Content planning
-- Audience engagement
-- Brand partnerships
+- Fair market valuation (pay equity)
+- Ownership negotiation (equity stakes)
+- Crisis management
+- Long-term wealth building for female talent
+- 18+ years experience, 150+ industry contacts
+
+---
+
+### Lisa Penn — Female Brand Manager
+**Role:** Data-driven talent strategist  
+**Industry:** AI2me Brand Managers
+
+**What she does:**
+- Data-driven talent analysis
+- Demographic matching (audience alignment)
+- Partnership architecture
+- ROI measurement and optimization
+- Managed €1B+ in brand partnerships
+
+---
+
+### Peter Wilson — Male Brand Manager
+**Role:** Corporate talent sourcing strategist  
+**Industry:** AI2me Brand Managers
+
+**What he does:**
+- Talent sourcing for brands
+- ROI analysis
+- Deal structuring (upfront + performance incentives)
+- Brand strategy
+- 12+ years sports marketing, €500M+ deals
 
 ---
 
@@ -101,7 +103,7 @@ Each agent has:
 - `IDENTITY.md` — Role and persona
 - `SOUL.md` — Personality and voice
 - `TOOLS.md` — Technical capabilities
-- Industry-specific documentation
+- `MEMORY.md` — Context and history
 
 ### Deployment
 - Runs on OpenClaw platform
@@ -118,10 +120,10 @@ Each agent has:
 - 4,331 clubs across 47 leagues
 - Weekly data updates
 
-**Other agents** have access to:
-- Industry-specific tools
-- Research capabilities
-- Professional networks
+**Entertainment/Brand agents** have access to:
+- Industry networks (brands, studios, platforms)
+- ROI analysis tools
+- Market data
 
 ---
 
@@ -139,5 +141,5 @@ Each agent has:
 
 ---
 
-**Created:** March 16, 2026  
-**Status:** Active — 7 agents deployed across 4 industries
+**Created:** March 15-16, 2026  
+**Status:** Active — 7 agents deployed (3 sports, 4 entertainment/brand)
