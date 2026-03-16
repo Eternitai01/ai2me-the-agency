@@ -7,123 +7,97 @@
 ## 🏆 Sports Division
 
 ### Enzo Rubio — AI Sporting Director
-**Role:** Club-side scout and technical director  
-**Industry:** Professional football
+**Industry:** Professional football (club side)
 
-**What he does:**
 - Scout players for clubs
-- Analyze club rosters
-- Research transfer targets
+- Analyze club rosters and transfer targets
 - Access to 4,331 clubs across 47 leagues
 
 ---
 
 ### Tania Freeman — Athlete Advisor Agent
-**Role:** Player-side career advisor  
-**Industry:** Professional football
+**Industry:** Professional football (player side)
 
-**What she does:**
-- Advise players on career moves
-- Research clubs and leagues
-- Contract opportunity analysis
-- Career path planning
+- Career move guidance for players
+- Club and league research
+- Contract analysis
 
 ---
 
 ### Bernie Brooks — Athlete Advisor Agent
-**Role:** Player-side transfer negotiator  
-**Industry:** Professional football
+**Industry:** Professional football (player side)
 
-**What he does:**
-- Negotiate transfers for players
-- Research club budgets
-- Compare competing offers
-- Market analysis
+- Transfer negotiation for players
+- Club budget research
+- Market analysis and offer comparison
 
 ---
 
 ## 🎬 Entertainment & Brand Management
 
-### Charlie Nens — Male Celebrity Agent
-**Role:** Strategic entertainment agent  
+### Charlie Nens — Celebrity Agent
 **Industry:** AI2me Entertainment
 
-**What he does:**
-- Brand positioning for male celebrities
+- Brand positioning and strategy
 - Endorsement deal negotiation
 - Opportunity identification
 - Reputation management
-- 100+ brand contacts
+- 100+ brand contacts, 10+ years experience
 
 ---
 
-### Trina Pia — Female Celebrity Agent
-**Role:** Power agent & female empowerment advocate  
-**Industry:** AI2me Entertainment
+### Trina Pia — Celebrity Agent
+**Industry:** AI2me Entertainment (Pay equity specialist)
 
-**What she does:**
-- Fair market valuation (pay equity)
+- Fair market valuation
 - Ownership negotiation (equity stakes)
 - Crisis management
-- Long-term wealth building for female talent
+- Long-term wealth building
 - 18+ years experience, 150+ industry contacts
 
 ---
 
-### Lisa Penn — Female Brand Manager
-**Role:** Data-driven talent strategist  
-**Industry:** AI2me Brand Managers
+### Lisa Penn — Brand Manager
+**Industry:** AI2me Brand Managers (Data specialist)
 
-**What she does:**
 - Data-driven talent analysis
-- Demographic matching (audience alignment)
+- Demographic matching and audience alignment
 - Partnership architecture
 - ROI measurement and optimization
 - Managed €1B+ in brand partnerships
 
 ---
 
-### Peter Wilson — Male Brand Manager
-**Role:** Corporate talent sourcing strategist  
-**Industry:** AI2me Brand Managers
+### Peter Wilson — Brand Manager
+**Industry:** AI2me Brand Managers (Corporate sourcing)
 
-**What he does:**
 - Talent sourcing for brands
-- ROI analysis
-- Deal structuring (upfront + performance incentives)
+- ROI analysis and deal structuring
 - Brand strategy
-- 12+ years sports marketing, €500M+ deals
+- 12+ years sports marketing, €500M+ deals negotiated
 
 ---
 
 ## 🏗️ Architecture
 
-### Agent Structure
 Each agent has:
 - `IDENTITY.md` — Role and persona
 - `SOUL.md` — Personality and voice
 - `TOOLS.md` — Technical capabilities
 - `MEMORY.md` — Context and history
 
-### Deployment
-- Runs on OpenClaw platform
-- Isolated workspaces
-- Shared resources where applicable
-- Voice + text communication
+**Deployment:** OpenClaw platform with isolated workspaces
 
 ---
 
 ## 📊 Resources
 
-**Sports agents** have access to:
-- Football Data Infrastructure: https://github.com/Eternitai01/ai2me-football-data
-- 4,331 clubs across 47 leagues
-- Weekly data updates
+**Sports agents:**
+- Football Data: https://github.com/Eternitai01/ai2me-football-data
+- 4,331 clubs, 47 leagues, weekly updates
 
-**Entertainment/Brand agents** have access to:
-- Industry networks (brands, studios, platforms)
-- ROI analysis tools
-- Market data
+**Entertainment/Brand agents:**
+- Industry networks, ROI analysis tools, market data
 
 ---
 
@@ -133,13 +107,13 @@ Each agent has:
 
 ---
 
-## 📖 Related
+## 📖 Links
 
 - **Football Data:** https://github.com/Eternitai01/ai2me-football-data
-- **AI2me Website:** https://ai2me.com
+- **AI2me:** https://ai2me.com
 - **Company:** EternitAI Group
 
 ---
 
-**Created:** March 15-16, 2026  
-**Status:** Active — 7 agents deployed (3 sports, 4 entertainment/brand)
+**Status:** 7 agents active (3 sports, 4 entertainment/brand)  
+**Created:** March 15-16, 2026
