@@ -1,42 +1,38 @@
-# AI2me The Agency — Sports Division
+# AI2me The Agency
 
-**Three AI agents working in professional football**
+**Seven specialized AI agents across multiple industries**
 
 ---
 
-## 🎯 The Team
+## 🏆 Sports Division
 
 ### Enzo Rubio — AI Sporting Director
 **Role:** Club-side scout and technical director  
-**Workspace:** `enzo-rubio/`
+**Industry:** Professional football
 
 **What he does:**
 - Scout players for clubs
 - Analyze club rosters
 - Research transfer targets
-- Technical analysis
-
-**Example:** "Find strikers in La Liga under €10M"
+- Access to 4,331 clubs across 47 leagues
 
 ---
 
 ### Tania Freeman — Athlete Advisor Agent
 **Role:** Player-side career advisor  
-**Workspace:** `tania-freeman/`
+**Industry:** Professional football
 
 **What she does:**
 - Advise players on career moves
 - Research clubs and leagues
-- Analyze contract opportunities
+- Contract opportunity analysis
 - Career path planning
-
-**Example:** "Should I accept this MLS offer or stay in Europe?"
 
 ---
 
 ### Bernie Brooks — Athlete Advisor Agent
 **Role:** Player-side transfer negotiator  
-**Workspace:** `bernie-brooks/`
+**Industry:** Professional football
 
 **What he does:**
 - Negotiate transfers for players
@@ -44,18 +40,57 @@
 - Compare competing offers
 - Market analysis
 
-**Example:** "What's a competitive salary for this position?"
+---
+
+## 📰 Media & Publishing
+
+### Charlie Nens — Content Strategist
+**Role:** Media and publishing specialist  
+**Industry:** Digital media
+
+**What he does:**
+- Content strategy
+- Editorial planning
+- Audience research
+- Distribution optimization
 
 ---
 
-## 📊 Data Access
+### Lisa Penn — Literary Agent
+**Role:** Book publishing specialist  
+**Industry:** Publishing
 
-All agents have access to comprehensive football data:
-- **4,331 clubs** across 47 leagues
-- **24 countries** (Europe, Americas, Asia, Middle East)
-- **Tier 1-4 divisions**
+**What she does:**
+- Manuscript evaluation
+- Publisher connections
+- Contract negotiation
+- Author representation
 
-**Data repository:** https://github.com/Eternitai01/ai2me-football-data
+---
+
+## 🎭 Entertainment
+
+### Peter Wilson — Talent Agent
+**Role:** Entertainment industry specialist  
+**Industry:** Film, TV, Music
+
+**What he does:**
+- Talent representation
+- Career management
+- Deal negotiation
+- Industry connections
+
+---
+
+### Trina Pia — Social Media Manager
+**Role:** Digital presence specialist  
+**Industry:** Social media & influencer marketing
+
+**What she does:**
+- Social media strategy
+- Content planning
+- Audience engagement
+- Brand partnerships
 
 ---
 
@@ -66,22 +101,27 @@ Each agent has:
 - `IDENTITY.md` — Role and persona
 - `SOUL.md` — Personality and voice
 - `TOOLS.md` — Technical capabilities
-- `AGENT_TOOLS.md` — Football data access guide
+- Industry-specific documentation
 
 ### Deployment
 - Runs on OpenClaw platform
 - Isolated workspaces
-- Shared database access (via symlinks)
+- Shared resources where applicable
 - Voice + text communication
 
 ---
 
-## 💡 Key Insight
+## 📊 Resources
 
-**Enzo** works for **clubs** (buys players)  
-**Tania + Bernie** work for **players** (advise/negotiate)
+**Sports agents** have access to:
+- Football Data Infrastructure: https://github.com/Eternitai01/ai2me-football-data
+- 4,331 clubs across 47 leagues
+- Weekly data updates
 
-They're on **opposite sides** of the negotiation table.
+**Other agents** have access to:
+- Industry-specific tools
+- Research capabilities
+- Professional networks
 
 ---
 
@@ -91,20 +131,13 @@ They're on **opposite sides** of the negotiation table.
 
 ---
 
-## 🔄 Updates
-
-- **Data:** Weekly refresh (Sundays 3:00 AM CET)
-- **Agents:** Continuous improvements
-
----
-
 ## 📖 Related
 
-- **Football Data Repo:** https://github.com/Eternitai01/ai2me-football-data
+- **Football Data:** https://github.com/Eternitai01/ai2me-football-data
 - **AI2me Website:** https://ai2me.com
 - **Company:** EternitAI Group
 
 ---
 
 **Created:** March 16, 2026  
-**Status:** Active — 3 agents deployed
+**Status:** Active — 7 agents deployed across 4 industries
