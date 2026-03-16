@@ -35,7 +35,7 @@
 
 ## 🎬 Entertainment & Brand Management
 
-### Charlie Nens — Celebrity Agent
+### Charlie Nens — Talent Agent
 **Industry:** AI2me Entertainment
 
 - Brand positioning and strategy
@@ -46,7 +46,7 @@
 
 ---
 
-### Trina Pia — Celebrity Agent
+### Trina Pia — Talent Agent
 **Industry:** AI2me Entertainment (Pay equity specialist)
 
 - Fair market valuation
